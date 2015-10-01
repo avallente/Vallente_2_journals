@@ -1,0 +1,7 @@
+A file system is how the comp uter keeps track of all the files.
+
+A representation of a file system object.
+
+Disk partitions are the physical space alotted to certain users, OSs, etc.
+
+A fault resistent file system.
