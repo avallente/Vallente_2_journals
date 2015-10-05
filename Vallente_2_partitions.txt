@@ -1,0 +1,2 @@
+When I first greped the file I found the search terms that I had in the file.
+With the first xxd I saw the full sentences witht the searchterms. After all of the nexxt commands the image was replaced with zeros.
