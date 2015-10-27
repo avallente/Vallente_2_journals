@@ -1,0 +1,1 @@
+I am able to mount disks with many partitions very easily now, though I would like to learn how to make a script to automatically do it.
