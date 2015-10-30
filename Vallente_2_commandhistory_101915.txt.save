@@ -1,0 +1,140 @@
+    1  apt-get install toilet
+    2  toilet
+    3  toilet tecmint
+    4  toilet youtube
+    5  toilet WHATS UP clear
+    7  apt-get install oneko
+    8  oneko
+    9  apt-get install sl
+   10  sl
+   11  iceweasel 
+   12  apt-get install sl
+   13  sl
+   14  yum -y install sl
+   15  telnet towel.blinkenlights.nl
+   16  rev
+   17  factor
+   18  apt-get install cowsay 
+   19  cowsay
+   20  cowsay Hello
+   21  ls /usr/share/
+   22  ls /usr/share/kali-root-login/
+   23  fortune
+   24  apt-get install fortune
+   25  fortune
+   26  yes Hi
+   27  ls
+   28  ls Downloads/
+   29  ls /
+   30  ls /usr/
+   31  ls /usr/games/
+   32  ls ./usr/games/cowsay
+   33  ls /usr/games/cowsay
+   34  ls /usr/games/LS
+   35  LS
+   36  cd /usr/games/
+   37  LS
+   38  /.LS
+   39  ./LS
+   40  ./sl
+   41  ./sl-h
+   42  ./oneko
+   43  apt-get install espeak
+   44  espeak hello
+   45  espeak "hello"
+   46  apt-get install libaa-bin
+   47  aafire 
+   48  apt-get install bb
+   49  b
+   50  bb
+   51  ls /usr/games/
+   52  cd /usr/games/
+   53  ./bb 
+   54  cmatrix 
+   55  ls
+   56  ls /media/
+   57  ls /media/sf_share/
+   58  ls /media/sf_share/digitalforensics/images/
+   59  cd /media/sf_share/digitalforensics/images/
+   60  fdisk -l
+   61  file
+   62  find . -type f -exec file {} \; | less
+   63  fdisk -l
+   64  mkdir Vallente_2_journals
+   65  cd Vallente_2_journals/
+   66  echo "# Vallente_2journals" >> README.md
+   67  git intit
+   68  git init
+   69  apt-get install git
+   70  git init
+   71  add README.md
+   72  git add README.md
+   73  git commit -m "first commit"
+   74  git remote add origin https://github.com/avallente/Vallente_2_journals.git
+   75  git push -u origin master
+   76  nano Vallente_2_0930
+   77  git add*
+   78  git add *
+   79  git commit -m "First journal of october"
+   80  git push -u origin master 
+   81  ./sl
+   82  yes FUfhiaeubguia
+   83  yes yes yes yes yes yes yes
+   84  iceweasel portal.neisd.net
+   85  iceweasel 
+   86  rm -rf .gnome .gnome2 .gconf.gconfd .metacity
+   87  fdisk -l
+   88  fallocate -l 10MB sample.disk
+   89  fdisk -l sample.disk
+   90  cfdisk sample.disk
+   91  clear
+   92  cfdisk sample.disk
+   93  fdisk -l sample.disk
+   94  fdisk sample.disk1
+   95  cfdisk sample.disk
+   96  fdisk -l sample.disk
+   97  bb
+   98  aafire 
+   99  cd
+  100  cd Val
+  101  ls quiz0/
+  102  nano Vallente_2_journals/
+  103  o
+  104  y
+  105  yes
+  106  yes +
+  107  yes +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  108  man bash
+  109  cd /media/sf_share/digitalforensics/images/
+  110  cd
+  111  cat quiz0/Vallente_C1_characteristics.txt 
+  112  ls /mnt/
+  113  aafire 
+  114  man aafire 
+  115  ls /mnt
+  116  ls /mnt/
+  117  cd /mnt/
+  118  l
+  119  sl
+  120  ls
+  121  dd if=/media/sf_share/digitalforensics/images/ of=/mnt/
+  122  clear
+  123  mount -t vfat ro,noexec /media/sf_share/digitalforensics/images/challenge1.img 
+  124  mount -t vfat -o ro,noexec /media/sf_share/digitalforensics/images/challenge1.img 
+  125  mount -t vfat -o ro,noexec /media/sf_share/digitalforensics/images/challenge1.img /mnt/
+  126  ls /mnt/
+  127  cp /mnt/computerizestopxnD /mnt/computerizestopxnD.zip
+  128  cp /mnt/computerizestopxnD quiz0/computerizestopxnD.zip
+  129  cd
+  130  cp /mnt/computerizestopxnD quiz0/computerizestopxnD.zip
+  131  ls quiz0/
+  132  unzip quiz0/computerizestopxnD.zip 
+  133  cat Catie \Hampshire.docx
+  134  cat Catie_Hampshire.docx
+  135  cat Catie\ Hampshire.docx
+  136  cat Secret\ Message\ -\ Catie\ Hampshire.docx 
+  137  qqqqqqqqqqqqqqqqqqqqqqqqq
+  138  libreoffice Secret\ Message\ -\ Catie\ Hampshire.docx 
+  139  cmatrix 
+  140  nano Vallente_2_journals/Vallente_2_1019
+  141  history > Vallente_2_journals/Vallente_2_commandhistory_101915.txt
