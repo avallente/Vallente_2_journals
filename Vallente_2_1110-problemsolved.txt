@@ -1,0 +1,2 @@
+Three programs that can be used to recover deleted files are extundelete, testdisk, and R.Linux. I can't use all of them because one, R.Linux, requires a download and executable( which is blocked by the districts network)
+I need to know the name of the deleted file.
