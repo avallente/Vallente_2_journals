@@ -1,0 +1,8 @@
+It provides all the specifications of a JPEG file.
+They could use that information as search terms to help find smuggled images.
+It gives you the list of all the file headers for all the different file types.
+You would use these to find files and their endings to help you "put the puzzle together
+D0 CF 11 E0
+D0 CF 11 E0
+50 4B 03 04
+
