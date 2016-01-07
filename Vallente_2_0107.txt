@@ -1,0 +1,4 @@
+1. You would find use the command head and tail on 
+2. Ouputs the file contents
+3. List or output file system data units, a.k.a. undeleate button
+4. Also outputs file contents
