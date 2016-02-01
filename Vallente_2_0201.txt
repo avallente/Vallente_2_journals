@@ -1,0 +1,12 @@
+First you have to xmount --in ewf nps-2008-jean.E0? ewf/ (of course after you mkdir
+ewf and download the images). 
+
+Then you fls -r -i raw -o 63 nps-2008-jean.dd | grep index\.html
+
+Then you take the address of the file and 
+icat -o 63 -i raw nps-2008-jean.dd 17358 > outlook.pst
+
+Then, after you download the pffexport package, you
+pffexport -m all -t outlook-export outlook.pst
+
+Then you grep for ssn, or spreadsheet.
