@@ -1,0 +1,11 @@
+1. I thought digital forensics investigators would kinda be like spies, they would
+have the suspect that they are hired to investigate, and then they would be able to
+look at what they are doing while they are doing it. I also thought that they would
+recover incraminating evidence and find "hidden" information.
+
+2. I thought that we would be working with the network and learning how to hack/crack.
+
+3. It looks like a bunch of people in a computer lab greping through a disk image for
+evidence.
+
+4. 
