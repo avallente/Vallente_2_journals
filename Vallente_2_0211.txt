@@ -1,0 +1,2 @@
+It can be used to help find incriminating evidence, such as if they vist a suspicous I.P. several time, or
+if an I.P. access te computer a suspicious amount of times.
