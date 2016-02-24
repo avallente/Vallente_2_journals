@@ -1,0 +1,5 @@
+tcpick is basically a tool for network monitoring, specifically for tcp streams, basically a "data hunting" tool. Dumps data in text format
+chaosreader is a network monitor that can read TCP,UDP, and other communication formats. Stores the data in the form of a HTML document that "links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions."
+tcplow captures TCP connection data and stores in an easily readable/searchable format
+
+
