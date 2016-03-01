@@ -1,0 +1,5 @@
+Kitten exploitation is suspected.
+We can look for traffic from torrent sites.
+1. torrent trafic
+2. incriminating files and
+3. use of obscure programs
