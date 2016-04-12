@@ -1,0 +1,2 @@
+Google was in trouble due accusations of Wi-fi packet sniffing. While they were driving in their camera cars they would ping open wifi networks and map them with
+gps. They did this with kismet. They accidentaly had the program set to sniff packets.
