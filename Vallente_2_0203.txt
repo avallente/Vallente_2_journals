@@ -1,0 +1,9 @@
+1. Firefox because of the traffic from mozilla, which makes firefox
+4. Verisign is a certificate signing program
+5. Python
+6. ack is acknowlaedgement and seq is sequence
+7. You would know if you found any traffic from email service providers, such as google, or microsoft outlook.
+8. I have no idea how you would be able to identify a printer on the network other than the fact that printers ise udp to communicate
+9. You could know if there were gov sites contacted because their domain would show up in the tcp dump
+10. akamai is a cloud hosting service
+11. That address would be the network gateway
