@@ -1,0 +1,3 @@
+The packet tracing option.
+
+It is easy to figure out the encryption of the packets and the wifi password.
