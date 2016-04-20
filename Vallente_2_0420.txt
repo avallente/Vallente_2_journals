@@ -1,0 +1,9 @@
+The bandwidth of wifi is 2.4GHz
+It can use channels 1-11? Legally in the USA at least.
+People commonly use 1,6,11
+They are all different wifi network standards
+They are all different wifi security methods
+WEP is the least secure WPA2 is the most secure with 256 bit keys compared to the WEP 128 bit
+Airsnort is used to crack wifi passwords
+Kismet is used for wifi network tracing(legally), it can also be used for packet tracing (illegaly)
+
