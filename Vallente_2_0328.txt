@@ -1,0 +1,7 @@
+Btscanner - captures device name & mac address
+Bluesnarfer - downloads the contact information on the target phone
+Bluediving - a penetration suite
+Btcrack - A Bluetooth pin and passphrase cracker. Uses information exchanged during pariting to calculate the password
+
+2. I could notice that a large amount of data is being transfered
+3. Normally a device, if it as built in bluetooth, has the same wifi mac as the bluetoooht, so you could use this to trace back the attac
