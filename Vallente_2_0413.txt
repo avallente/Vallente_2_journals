@@ -1,0 +1,5 @@
+The fact that there are so many file configs, os configs, encryption schemes, etc.
+People thinking that investigation is easy and comes to a conslusion
+The "Easy" data actually has an identifiable header
+sampling random sectors for any data
+A bulk data extractor, DFXML, a tool that sorts all of your data in XML, and digitalcopera, the place to get practice disks

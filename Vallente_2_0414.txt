@@ -1,0 +1,4 @@
+MITM attack, access point hack
+Be wary about open wifi networks and use a vpn
+A vpn routes all of your traffic through a different ip and also encrypts all traffic.
+To use one, download it and boot it up, unless of course you like being hacked
