@@ -1,0 +1,8 @@
+An AP is an accesss point
+A computer that accesses a resource that is on the server
+A thing that seperates networks, kind of like river that seperates two groupsof people who talk to eachother
+A repeaater is exasctly what it is, it receives a signal, then repeats it, with either a higher or lower power
+When devices talk directly without an AP
+A whole bunch of wireless devices that communicate, not necisarily connjected to the internet
+Symbols used to help out with wardriving
+Exactly what it says, a rouge. They do not conform to WLAN security protocalls
