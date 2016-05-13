@@ -1,0 +1,7 @@
+1. Yes? I don't know the laws in South Africa, but based on the fact that at the end they call in the authorities, I'm going to say yes.
+2. Who is Knuth? Sounds like an operating system name to me. Thouh seriously, is this guy like a recruiter or a criminal overlord?
+4. nmap - shows all of the IPs on a network or it can do a scan of a specified IP
+   He captured packets with aethermap or somthing like that
+3. A PDA, some Lucent AP-1000 access points, some ORiNOCO Gold Wireless PCMCIA cards, some 8dbi omni antennas, and some pigtail connectors
+5. He:
+  1. determined the network type
