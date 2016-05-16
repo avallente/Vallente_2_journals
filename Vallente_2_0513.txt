@@ -5,3 +5,13 @@
 3. A PDA, some Lucent AP-1000 access points, some ORiNOCO Gold Wireless PCMCIA cards, some 8dbi omni antennas, and some pigtail connectors
 5. He:
   1. determined the network type
+  2. sniffed packets from the hospital
+  3. used packets to determine WEP key
+  4. determined AP type
+  5. set up rouge APs
+  6. perform DoS attack on network
+  7. log packets after DoS attack to find admin password
+  8. log into network as admin
+  9. log packets until a doctors username/pass is captured
+  10. use login to access patient files and change blood type
+6
