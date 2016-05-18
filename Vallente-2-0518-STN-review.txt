@@ -1,0 +1,9 @@
+1. If a bad runs his program, your computer is his - Scary story time, there once was a file called slideshow.exe
+2. If baddy changes the OS, its now his computer - don't let a baddy touch your computer, or your sys32
+4. If baddy can physically access your computer, its now his - don't let the baddy molest you computer
+5. Weak passwords trump stong defense -  3ft concrete walls are no good if you have a $3 padlock
+6. A machine is only as strong as the admin is trustworthy -secret bases aren't any good if the workers tell everyone where it is
+7. Encyption is ony as strong as the key - heed 5.
+8. Out-of-date anti-virus is barely better than no anti-virus - Windows XP vs. the internet go
+9. An0n not practical - You just can't stay anonymous
+10. What is a panacea
