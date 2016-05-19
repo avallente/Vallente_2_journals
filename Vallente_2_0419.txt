@@ -1,0 +1,2 @@
+1. You would want to disable the packet logging 
+2. WEP is weak because if you capture enough packets, you can peice together the encryption key from the broadcasts that the AP makes when configured with WEP
