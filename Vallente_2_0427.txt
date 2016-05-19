@@ -1,0 +1,2 @@
+WEP is vulnerable because you can peice together the encryption key from the frame broadcasts.
+WEP is also vulnerable to active attacks because all traffic has the same encyption and the same key, which is normally short, so it easily cracked
