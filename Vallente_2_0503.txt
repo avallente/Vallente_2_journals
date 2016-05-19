@@ -1,0 +1,1 @@
+It never worked for me, the usb wouldn't pass as a network device (and I was using the new vdi)
