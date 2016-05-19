@@ -1,0 +1,1 @@
+Day 1738: I have restarted the vm, switched dongles, reconfigured kismet, but I still am getting the DHCP error
